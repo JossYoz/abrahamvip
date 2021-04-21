@@ -1,0 +1,214 @@
+
+#navavip{
+    height: 100px;
+    background-color: transparent;
+    box-shadow: none!important;
+    font-weight: bold;
+    
+}
+
+.divcont{
+    background-color: white;
+    border-radius: 20px;
+    margin: 5%;
+    padding: 1%;
+}
+
+.map{
+    width:350px;
+    height:250px;
+}
+
+.tittlefp{
+    margin-left: 50px;
+    text-align: right;
+}
+
+#h1tittlefp{
+    font-weight: bolder;
+    color: white;
+    margin: 0px;
+    font-size: 3rem;
+    
+}
+#h2tittlefp{
+    color:white;
+    font-weight: bolder;
+    margin: 0px;
+    font-size: 3rem;
+}
+
+
+#pct{
+    font-weight: bolder;
+    margin-top: 10%;
+
+}
+
+#iconct{
+    width: 7%;
+    margin-left: 10%;
+}
+
+
+
+#bodytittlefp{
+    background-image: url("../img/playa4k.jpg");
+    background-size: 1440px 900px;
+    background-repeat: no-repeat;
+    
+}
+
+.aviplogo{
+    width: 100px;
+}
+
+li{
+    margin: 15px;
+    
+}
+
+nav ul a {
+   -webkit-transition: none; 
+   transition: none;
+    
+}
+
+#navlogo{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#containersection{
+    position: static;
+    margin-top: 60px;
+}
+
+#avionblanco{
+    width: 200px;
+}
+
+#iconcardpanel{
+    width: 150px;
+    margin-left: 30px;
+}
+
+#iconcardpanel3{
+    width: 150px;
+    margin-left: 30px;
+}
+
+#cardcontainer1{
+    border-top-left-radius: 50px;
+    
+}
+
+#cardcontainer3{
+    border-bottom-right-radius: 50px;
+    
+}
+
+#logoscontainer{
+    width: 200px;
+}
+
+#h2tittlest{
+    font-weight: bolder;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hbolderwhite{
+    font-weight: bolder;
+    color: white;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+#logfloat{
+    width: 30px;
+    margin: 23%;
+}
+
+#spancards{
+    font-weight: bolder;
+}
+
+
+.slider .slides{
+    background-color: transparent;
+    
+}
+
+#litittle{
+    margin: 0px;
+}
+
+.btn-floating{
+    display: flex;
+}
+
+
+
+
+
+
+.slider .indicators{
+    display: none;
+}
+
+
+.material-icons-round.md-48 {
+     font-size: 48px;
+     margin-top: 50%;
+    }
+
+@media only screen and (max-width: 768px){
+    #litittle{
+        height: 440px;
+    }
+
+
+    #btnxl{
+        height: auto;
+    min-height: 20px;
+    line-height: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 0px;
+    padding-right: 0px;
+    }
+
+    #logoscontainer{
+        width: 100px;
+    }
+
+    .formcat{
+        width: 360px;
+    }
+
+    #paso1{
+        width: 350px;
+    }
+
+    #paso2{
+        width: 350px;
+    }
+
+    #iconcardpanel{
+        width: 130px;
+        margin-left: 75px;
+    }
+    #iconcardpanel3{
+        width: 130px;
+        margin-left: 60px;
+    }
+
+    .map{
+        width:300px;
+        height:530px;
+    }
+}
